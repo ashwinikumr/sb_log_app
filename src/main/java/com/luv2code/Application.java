@@ -15,5 +15,10 @@ public class Application {
 		int age=40;
 
 	}
+	
+	//AA-102
+	public void m2(){
+	//logic
+	}
 
 }
