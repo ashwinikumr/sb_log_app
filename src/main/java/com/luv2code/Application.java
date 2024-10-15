@@ -18,6 +18,7 @@ public class Application {
 	
 	//AA-102
 	public void m2(){
+		int a =20;
 	//logic
 	}
 
